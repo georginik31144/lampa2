@@ -1,14 +1,14 @@
 {
-    "name": "ivi.ru2",
+    "name": "lampa",
     "date": "2017.10.19",
     "version": "1.1.2",
     "description": "The first Russian free video provider with a licensed full-length content.",
     "author": {
-        "name": "ivi.ru2"
+        "name": "lampa1"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/georginik31144/lampa2/upload.git"
+        "url": "https://github.com/georginik31144/lampa2.git"
     },
     "config": {
         "type": "app",
